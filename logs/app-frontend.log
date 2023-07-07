@@ -1,0 +1,25 @@
+[INFO ] 2023-06-30 09:49:14.692 [main] ShopApplication - Starting ShopApplication using Java 17.0.3.1 with PID 19192 (D:\program\Java\foodShop\shop\target\classes started by Andri in D:\program\Java\foodShop\shop)
+[DEBUG] 2023-06-30 09:49:14.700 [main] ShopApplication - Running with Spring Boot v3.0.8, Spring v6.0.10
+[INFO ] 2023-06-30 09:49:14.701 [main] ShopApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-30 09:50:09.413 [main] ShopApplication - Starting ShopApplication using Java 17.0.3.1 with PID 14628 (D:\program\Java\foodShop\shop\target\classes started by Andri in D:\program\Java\foodShop\shop)
+[DEBUG] 2023-06-30 09:50:09.421 [main] ShopApplication - Running with Spring Boot v3.0.8, Spring v6.0.10
+[INFO ] 2023-06-30 09:50:09.434 [main] ShopApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-30 09:52:49.219 [main] ShopApplication - Starting ShopApplication using Java 17.0.3.1 with PID 10676 (D:\program\Java\foodShop\shop\target\classes started by Andri in D:\program\Java\foodShop\shop)
+[DEBUG] 2023-06-30 09:52:49.226 [main] ShopApplication - Running with Spring Boot v3.0.8, Spring v6.0.10
+[INFO ] 2023-06-30 09:52:49.228 [main] ShopApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-06-30 09:52:52.485 [main] ShopApplication - Started ShopApplication in 3.604 seconds (process running for 4.465)
+[INFO ] 2023-07-03 12:43:52.350 [main] ShopApplication - Starting ShopApplication using Java 17.0.3.1 with PID 10828 (D:\program\Java\foodShop\shop\target\classes started by Andri in D:\program\Java\foodShop\shop)
+[DEBUG] 2023-07-03 12:43:52.374 [main] ShopApplication - Running with Spring Boot v3.0.8, Spring v6.0.10
+[INFO ] 2023-07-03 12:43:52.377 [main] ShopApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-03 12:43:56.038 [main] ShopApplication - Started ShopApplication in 4.104 seconds (process running for 6.241)
+[INFO ] 2023-07-03 12:47:15.054 [main] ShopApplication - Starting ShopApplication using Java 17.0.3.1 with PID 8292 (D:\program\Java\foodShop\shop\target\classes started by Andri in D:\program\Java\foodShop\shop)
+[DEBUG] 2023-07-03 12:47:15.063 [main] ShopApplication - Running with Spring Boot v3.0.8, Spring v6.0.10
+[INFO ] 2023-07-03 12:47:15.065 [main] ShopApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-03 12:47:21.084 [main] ShopApplication - Started ShopApplication in 6.375 seconds (process running for 7.083)
+[INFO ] 2023-07-03 13:25:06.022 [main] ShopApplication - Starting ShopApplication using Java 17.0.3.1 with PID 5848 (D:\program\Java\foodShop\shop\target\classes started by Andri in D:\program\Java\foodShop\shop)
+[DEBUG] 2023-07-03 13:25:06.043 [main] ShopApplication - Running with Spring Boot v3.0.8, Spring v6.0.10
+[INFO ] 2023-07-03 13:25:06.045 [main] ShopApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-03 13:25:47.568 [main] ShopApplication - Starting ShopApplication using Java 17.0.3.1 with PID 12580 (D:\program\Java\foodShop\shop\target\classes started by Andri in D:\program\Java\foodShop\shop)
+[DEBUG] 2023-07-03 13:25:47.577 [main] ShopApplication - Running with Spring Boot v3.0.8, Spring v6.0.10
+[INFO ] 2023-07-03 13:25:47.578 [main] ShopApplication - No active profile set, falling back to 1 default profile: "default"
+[INFO ] 2023-07-03 13:25:51.078 [main] ShopApplication - Started ShopApplication in 3.842 seconds (process running for 4.539)
